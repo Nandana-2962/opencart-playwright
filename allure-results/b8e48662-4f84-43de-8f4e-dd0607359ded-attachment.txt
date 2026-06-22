@@ -1,0 +1,11 @@
+{
+  bookingid: 2784,
+  booking: {
+    firstname: 'Alexandrine',
+    lastname: 'Reynolds',
+    totalprice: 3183,
+    depositpaid: false,
+    bookingdates: { checkin: '2026-06-19', checkout: '2026-06-24' },
+    additionalneeds: 'super bowls'
+  }
+}

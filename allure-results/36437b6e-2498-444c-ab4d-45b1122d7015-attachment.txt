@@ -1,0 +1,11 @@
+Error clicking on My Account link: TypeError: Cannot read properties of undefined (reading 'click')
+    at HomePage.clickMyAccount (C:\Users\nandana.kv\Desktop\opencart-playwright\pages\HomePage.ts:36:37)
+    at C:\Users\nandana.kv\Desktop\opencart-playwright\tests\Login.spec.ts:45:20
+    at C:\Users\nandana.kv\Desktop\opencart-playwright\node_modules\playwright\lib\worker\workerProcessEntry.js:1662:15
+    at C:\Users\nandana.kv\Desktop\opencart-playwright\node_modules\playwright\lib\worker\workerProcessEntry.js:1154:17
+    at TimeoutManager.withRunnable (C:\Users\nandana.kv\Desktop\opencart-playwright\node_modules\playwright\lib\worker\workerProcessEntry.js:426:9)
+    at TestInfoImpl._runWithTimeout (C:\Users\nandana.kv\Desktop\opencart-playwright\node_modules\playwright\lib\worker\workerProcessEntry.js:1152:34)
+    at C:\Users\nandana.kv\Desktop\opencart-playwright\node_modules\playwright\lib\worker\workerProcessEntry.js:1660:22
+    at WorkerMain._runTest (C:\Users\nandana.kv\Desktop\opencart-playwright\node_modules\playwright\lib\worker\workerProcessEntry.js:1633:5)
+    at WorkerMain.runTestGroup (C:\Users\nandana.kv\Desktop\opencart-playwright\node_modules\playwright\lib\worker\workerProcessEntry.js:1528:9)
+    at process.<anonymous> (C:\Users\nandana.kv\Desktop\opencart-playwright\node_modules\playwright\lib\common\index.js:1990:25)
